@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/study.code/Day0/Day0.iml" filepath="$PROJECT_DIR$/study.code/Day0/Day0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/study.code/Day1/Day1.iml" filepath="$PROJECT_DIR$/study.code/Day1/Day1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/study.code/Day2/Day2.iml" filepath="$PROJECT_DIR$/study.code/Day2/Day2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/study.code/Day3/Day3.iml" filepath="$PROJECT_DIR$/study.code/Day3/Day3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/study.code/Day4/Day4.iml" filepath="$PROJECT_DIR$/study.code/Day4/Day4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/study.code/StudentManger/StudentManger.iml" filepath="$PROJECT_DIR$/study.code/StudentManger/StudentManger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/study.code/study.code.iml" filepath="$PROJECT_DIR$/study.code/study.code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/untitled.iml" filepath="$PROJECT_DIR$/untitled.iml" />
+    </modules>
+  </component>
+</project>
